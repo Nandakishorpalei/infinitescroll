@@ -1,0 +1,17 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+#scrollBox{
+    height: 98vh;
+    width: 50vw;
+    overflow-y: scroll;
+    border: 5px solid red;
+    color:black;
+    background-color: antiquewhite;
+    margin: auto;
+    text-align: center;
+}
+h1{
+    margin: 2vh 0 ;
+}
